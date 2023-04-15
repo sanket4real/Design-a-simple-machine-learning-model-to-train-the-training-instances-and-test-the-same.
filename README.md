@@ -1,1 +1,2 @@
-# Design-a-simple-machine-learning-model-to-train-the-training-instances-and-test-the-same.
+## run following command to install sklearn
+### pip install -U scikit-learn scipy matplotlib
